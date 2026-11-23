@@ -10,6 +10,6 @@ allure-report/
 test-results/
 
 .idea/
-
+.vscode
 videos/
 tracing/
