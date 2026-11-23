@@ -1,1 +1,1 @@
-[](screenshots/image.pngimage.png)
+[](screenshots/image.png)
